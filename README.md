@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **WesselSmit/wesselsmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<img id="github-profile-view-counter" src="https://enm2zdt9nlhkk9n.m.pipedream.net" style="display: none;">
