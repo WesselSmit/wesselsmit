@@ -5,9 +5,11 @@
 
 ```js
 const wessel = {
-  code: ['javascript', '(s)css', 'html'],
-  tools: ['node', 'express', 'gulp'],
-  libraries: ['codemirror', 'socketio', 'three', 'd3'],
+  experience: {
+    code: ['javascript', '(s)css', 'html'],
+    tools: ['node', 'express', 'gulp'],
+    libraries: ['codemirror', 'socketio', 'three', 'd3']
+  },
   indentation: 'tabs',
   keywords: ['design', 'frontend', 'student', 'communication & multimedia design']
 }
