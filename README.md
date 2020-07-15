@@ -8,7 +8,7 @@ const wessel = {
   experience: {
     code: ['javascript', '(s)css', 'html'],
     tools: ['node', 'express', 'gulp'],
-    libraries: ['codemirror', 'socketio', 'three', 'd3']
+    libraries: ['codemirror', 'socketio', 'd3']
   },
   indentation: 'tabs',
   keywords: ['design', 'frontend', 'student', 'communication & multimedia design']
